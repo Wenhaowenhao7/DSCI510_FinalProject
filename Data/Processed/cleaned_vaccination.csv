@@ -1,8 +1,8 @@
 State,VaccinationRate
-Alaska,56.4
 Alabama,47.7
-Arkansas,51.2
+Alaska,56.4
 Arizona,57.1
+Arkansas,51.2
 California,66.2
 Colorado,66.3
 Connecticut,74.7
@@ -10,29 +10,29 @@ Delaware,64.3
 Florida,63.4
 Georgia,51.1
 Hawaii,63.6
-Iowa,59.0
 Idaho,46.3
 Illinois,64.2
 Indiana,52.1
+Iowa,59.0
 Kansas,57.1
 Kentucky,54.3
 Louisiana,50.3
-Massachusetts,74.7
-Maryland,70.5
 Maine,75.9
+Maryland,70.5
+Massachusetts,74.7
 Michigan,56.9
 Minnesota,65.5
-Missouri,53.1
 Mississippi,48.1
+Missouri,53.1
 Montana,54.0
-North Carolina,56.8
-North Dakota,52.6
 Nebraska,59.9
+Nevada,56.5
 New Hampshire,67.3
 New Jersey,70.6
 New Mexico,66.3
-Nevada,56.5
 New York,71.9
+North Carolina,56.8
+North Dakota,52.6
 Ohio,55.3
 Oklahoma,53.6
 Oregon,66.5
@@ -43,9 +43,9 @@ South Dakota,57.2
 Tennessee,51.4
 Texas,57.0
 Utah,58.8
-Virginia,68.0
 Vermont,77.5
+Virginia,68.0
 Washington,68.0
-Wisconsin,62.0
 West Virginia,55.1
+Wisconsin,62.0
 Wyoming,47.6
